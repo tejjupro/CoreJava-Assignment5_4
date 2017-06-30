@@ -1,4 +1,4 @@
-package package1;          //This java file is inside package named package1 inside src folder.
+package myPack;          //This java file is inside package named package1 inside src folder.
 
 public class FixedStack implements Stack      //Class declaration implementing Stack interface.
 {

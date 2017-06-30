@@ -1,4 +1,4 @@
-package package1;
+package myPack;
 //This java file is inside package named package1 inside src folder.
 
 public class VariableStack implements Stack    //Class declaration which implements the interface Stack.

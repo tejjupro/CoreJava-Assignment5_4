@@ -1,4 +1,4 @@
-package package1x;             //This java file is inside package named package1 inside src folder.
+package myPack;             //This java file is inside package named package1 inside src folder.
 
 public interface Stack      //Declaration of interface.
 {

@@ -1,4 +1,4 @@
-package package1;        //This java file is inside package named package1 inside src folder.
+package myPack;        //This java file is inside package named package1 inside src folder.
 import java.util.*;       //importing all classes from java's util library.. Because it has Scanner class which is used to take input from user.
 
 /*
